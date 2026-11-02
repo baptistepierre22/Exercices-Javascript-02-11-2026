@@ -20,3 +20,7 @@ else //Sinon
 // == égal à
 // != différent de
 
+/* (blocde commentaires)
+5 === 5 =>vrai
+"5" === 5 =>faux
+
