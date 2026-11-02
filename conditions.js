@@ -11,3 +11,12 @@ else //Sinon
     console.log("Au revoir"); //On écrit Au revoir, bloc 2 
     
 // Important !! Si un bloc contient plus d'une instruction, il faut l'encadrer par des accolades { }.
+
+//Opérateurs de comparaison
+// > plus grand que
+// < plus petit que
+// >= plus grand ou égal à
+// <= plus petit ou égal à
+// == égal à
+// != différent de
+
