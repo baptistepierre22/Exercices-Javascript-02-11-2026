@@ -4,5 +4,16 @@
 let a = 1; //type de a => number
 let b = "bonjour"; //type de b => string
 let c = true; //type de c => bool
+let n1=12;
+let n2=45;
+let n3=2.3;
 
-console.log(type.)
+console.log(typeof a);
+console.log(typeof b);
+console.log(typeof c);
+
+//les 3 opérations arithmétiques + - / * %
+console.log(typeof n1);
+console.log(typeof n2);
+console.log(typeof n3);
+
